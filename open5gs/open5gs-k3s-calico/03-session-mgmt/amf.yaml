@@ -7,7 +7,7 @@ spec:
   selector:
     app: amf
   externalIPs:
-  - 10.34.4.130
+  - 172.21.168.93
   ports:
   - name: sbi
     port: 7777
